@@ -44,7 +44,7 @@ while True:
             print(num1, "*", num2, "=", multiply(num1, num2))
 
         elif choice == '4':
-            print(num1, "/", num2, "=", divide((num1, num2)))
+            print(num1, "/", num2, "=", divide(num1, num2))
 
         # essa função irá checar se o usuário deseja fazer outro cálculo
         # caso a resposta seja não, irá quebrar o while loop
